@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "react": "^0.11.2",
+    "react-tools": "^0.11.2",
+    "serve": "^1.4.0"
+  }
+}
